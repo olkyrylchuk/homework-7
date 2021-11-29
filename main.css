@@ -72,6 +72,12 @@ section .container ul {
 
 input:checked+label {
     text-decoration: line-through;
+    color: #9B96AC;
+}
+
+input:checked+label span {
+    text-decoration: line-through;
+    color: #9B96AC;
 }
 
 p::before {

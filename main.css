@@ -104,10 +104,10 @@ span {
 }
 
 section .container ul li {
-    padding-top: 11px;
+    padding-top: 3px;
     padding-left: 12px;
     width: 534px;
-    height: 45px;
+    min-height: 45px;
     color: #FFFFFF;
 }
 
